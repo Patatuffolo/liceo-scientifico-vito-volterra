@@ -1,0 +1,8 @@
+{
+  "name": "Liceo Scientifico Vito Volterra",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "faf4038e"
+}

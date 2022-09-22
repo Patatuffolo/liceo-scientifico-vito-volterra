@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Liceo Scientifico Vito Volterra",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
